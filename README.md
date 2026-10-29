@@ -64,15 +64,15 @@ Hardware:    Microsoldadura, hardware modding, reparación electrónica y diagno
 
 * 🏢 **Control e Industrial:** Experiencia trabajando con sistemas de gestión de edificios (**BMS**) y entornos **SCADA** (IQVision, Trend, Honeywell).
 
-* 🔬 **Cacharreo y Hardware:** De vez en cuando cambio el teclado por el soldador de estación para hacer microsoldadura, instalar microchips , reparar electrónica portátil o hacer coding a traves de OBD II.
+* 🔬 **Cacharreo y Hardware:** De vez en cuando cambio el teclado por el soldador de estación para hacer microsoldadura, instalar microchips, reparar electrónica portátil o hacer coding a través de scripts y hardware.
 
 ---
 
 ### 📊 Estadísticas en GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DatreRSX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatreRSX&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DatreRSX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_title=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatreRSX&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
