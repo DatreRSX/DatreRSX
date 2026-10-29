@@ -27,9 +27,9 @@ Hardware:    Microsoldadura, hardware modding, reparación electrónica y diagn�
 
 ---
 
-### 🛠️ Stack Tecnológico y Herramientas
+### 🛠️ Stack tecnológico
 
-#### 🖥️ Sistemas, Virtualización y Contenedores
+#### 🖥️ Sistemas, virtualización y contenedores
 <p>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
@@ -37,7 +37,7 @@ Hardware:    Microsoldadura, hardware modding, reparación electrónica y diagn�
   <img src="https://img.shields.io/badge/Linux_Containers_(LXC)-333333?style=for-the-badge&logo=linuxcontainers&logoColor=white" alt="LXC" />
 </p>
 
-#### 🌐 Redes, Seguridad y Self-Hosting
+#### 🌐 Redes, seguridad y self-hosting
 <p>
   <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
   <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale" />
@@ -45,7 +45,7 @@ Hardware:    Microsoldadura, hardware modding, reparación electrónica y diagn�
   <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white" alt="Pi-hole" />
 </p>
 
-#### ⚙️ Scripting, Automatización y Bases de Datos
+#### ⚙️ Automatización, scripting y bases de datos
 <p>
   <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -58,13 +58,10 @@ Hardware:    Microsoldadura, hardware modding, reparación electrónica y diagn�
 
 ### ⚡ Qué hago cuando no estoy en la terminal
 
-* 🏠 **Homelabbing:** Despliegue de servicios autoalojados con contenedores LXC y Docker sobre Proxmox VE, priorizando aislamiento, bajo consumo y acceso remoto seguro.
-
-* 🤖 **Automatización:** Si una tarea del sistema o web se repite más de dos veces, termina convertida en un script de **Bash** o en una automatización con **Python + Playwright** programada en cron.
-
-* 🏢 **Control e Industrial:** Experiencia con sistemas de gestión de edificios (**BMS**) y entornos **SCADA** como **IQVision**, **Trend** y **Honeywell**.
-
-* 🔬 **Cacharreo y Hardware:** De vez en cuando cambio el teclado por el soldador de estación para realizar microsoldadura, instalar microchips, reparar electrónica portátil o hacer coding a través de scripts y hardware.
+- 🏠 **Homelabbing:** despliegue y mantenimiento de servicios autoalojados con contenedores LXC y Docker sobre Proxmox VE, priorizando aislamiento, bajo consumo y acceso remoto seguro.
+- 🤖 **Automatización:** si una tarea se repite, termina convertida en un script de Bash o en una automatización con Python + Playwright programada en cron.
+- 🏢 **Control e industrial:** experiencia con entornos BMS y SCADA como IQVision, Trend y Honeywell.
+- 🔬 **Cacharreo y hardware:** microsoldadura, reparación de electrónica, instalación de microchips y automatización de procesos con scripts y hardware.
 
 ---
 
