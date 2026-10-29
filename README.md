@@ -14,15 +14,15 @@
 ### `david@homelab:~$ fastfetch`
 
 ```yaml
-OS:          Debian GNU/Linux / MacOS / Windows / FreeBSD
-Host:        Proxmox VE (Mini PC Homelab Cluster)
+OS:          Debian GNU/Linux / macOS / Windows / FreeBSD
+Host:        Proxmox VE • Mini PC Homelab Cluster
 Kernel:      SysAdmin & Network Engineering SMR / ASIR
-Uptime:      3+ años entre sistemas y redes )
-Containers:  LXC & Docker | Divide y vencerás 
+Uptime:      3+ años entre sistemas, redes y automatización
+Containers:  LXC & Docker • Divide y vencerás
 Network:     WireGuard, Tailscale, Nginx Proxy Manager, Pi-hole, Samba
 Shell:       Bash & Python (Playwright)
 DB:          Oracle Database & SQL
-Hardware:    Microsoldadura, hardware modding, reparación electrónica y diagnosis
+Hardware:    Microsoldadura, hardware modding, reparación electrónica y diagnóstico
 ```
 
 ---
@@ -58,13 +58,13 @@ Hardware:    Microsoldadura, hardware modding, reparación electrónica y diagno
 
 ### ⚡ Qué hago cuando no estoy en la terminal
 
-* 🏠 **Homelabbing:** Desplegando servicios autoalojados en contenedores LXC y Docker sobre Proxmox VE, priorizando el aislamiento, el bajo consumo de recursos y el acceso remoto seguro.
+* 🏠 **Homelabbing:** Despliegue de servicios autoalojados con contenedores LXC y Docker sobre Proxmox VE, priorizando aislamiento, bajo consumo y acceso remoto seguro.
 
-* 🤖 **Automatización:** Si una tarea web o del sistema se repite más de dos veces, acaba en un script de **Bash** o automatizada con **Python + Playwright** corriendo en un cron.
+* 🤖 **Automatización:** Si una tarea del sistema o web se repite más de dos veces, termina convertida en un script de **Bash** o en una automatización con **Python + Playwright** programada en cron.
 
-* 🏢 **Control e Industrial:** Experiencia trabajando con sistemas de gestión de edificios (**BMS**) y entornos **SCADA** (IQVision, Trend, Honeywell).
+* 🏢 **Control e Industrial:** Experiencia con sistemas de gestión de edificios (**BMS**) y entornos **SCADA** como **IQVision**, **Trend** y **Honeywell**.
 
-* 🔬 **Cacharreo y Hardware:** De vez en cuando cambio el teclado por el soldador de estación para hacer microsoldadura, instalar microchips, reparar electrónica portátil o hacer coding a través de scripts y hardware.
+* 🔬 **Cacharreo y Hardware:** De vez en cuando cambio el teclado por el soldador de estación para realizar microsoldadura, instalar microchips, reparar electrónica portátil o hacer coding a través de scripts y hardware.
 
 ---
 
