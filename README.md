@@ -84,9 +84,12 @@ Soy un SysAdmin con foco en infraestructura, redes, automatización y entornos s
 ## 📊 Estadísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DatreRSX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatreRSX&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=for-the-badge" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/Top%20Languages-Bash%20%7C%20Python%20%7C%20SQL-00599C?style=for-the-badge&logo=python" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Infraestructura-Linux%20%7C%20Networking-2CA5E0?style=for-the-badge&logo=linux" alt="Infrastructure" />
 </div>
+
+> Las tarjetas dinámicas de GitHub Readme Stats están fallando por el servicio externo; he dejado badges estáticos para que se vean siempre correctamente en GitHub.
 
 ---
 
