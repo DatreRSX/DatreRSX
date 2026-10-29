@@ -81,18 +81,6 @@ Soy un SysAdmin con foco en infraestructura, redes, automatización y entornos s
 
 ---
 
-## 📊 Estadísticas
-
-<div align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=for-the-badge" alt="GitHub Profile" />
-  <img src="https://img.shields.io/badge/Top%20Languages-Bash%20%7C%20Python%20%7C%20SQL-00599C?style=for-the-badge&logo=python" alt="Top Languages" />
-  <img src="https://img.shields.io/badge/Infraestructura-Linux%20%7C%20Networking-2CA5E0?style=for-the-badge&logo=linux" alt="Infrastructure" />
-</div>
-
-> Las tarjetas dinámicas de GitHub Readme Stats están fallando por el servicio externo; he dejado badges estáticos para que se vean siempre correctamente en GitHub.
-
----
-
 <div align="center">
   <sub><i>"Talk is cheap. Show me the logs."</i></sub>
 </div>
