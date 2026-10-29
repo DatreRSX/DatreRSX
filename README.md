@@ -9,6 +9,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7dd3fc&center=true&vCenter=true&width=500&lines=Linux+%7C+Networks+%7C+Automation;Self-Hosted+%7C+Homelab;Bash+%7C+Python+%7C+Playwright" alt="Typing SVG" />
+</p>
+
 ---
 
 ### `david@homelab:~$ fastfetch`
@@ -27,9 +31,21 @@ Hardware:    Microsoldadura, hardware modding, reparación electrónica y diagn�
 
 ---
 
-### 🛠️ Stack tecnológico
+## 🧠 Perfil
 
-#### 🖥️ Sistemas, virtualización y contenedores
+Soy un SysAdmin con foco en infraestructura, redes, automatización y entornos self-hosted. Me gusta convertir problemas repetitivos en soluciones simples, robustas y escalables, y trabajar sobre hardware, servicios en Linux y plataformas de despliegue automatizado.
+
+- 🏠 Homelab operativo con Proxmox VE, Docker y LXC
+- 🔐 Redes, seguridad, VPN, proxy inverso y DNS local
+- ⚙️ Automatización con Bash, Python y Playwright
+- 🧰 Diagnóstico de hardware, soldadura y reparación electrónica
+- ☁️ Enfoque en infraestructura fiable, mínima fricción y fácil mantenimiento
+
+---
+
+## 🛠️ Stack tecnológico
+
+### Sistemas, virtualización y contenedores
 <p>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
@@ -37,7 +53,7 @@ Hardware:    Microsoldadura, hardware modding, reparación electrónica y diagn�
   <img src="https://img.shields.io/badge/Linux_Containers_(LXC)-333333?style=for-the-badge&logo=linuxcontainers&logoColor=white" alt="LXC" />
 </p>
 
-#### 🌐 Redes, seguridad y self-hosting
+### Redes, seguridad y self-hosting
 <p>
   <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
   <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale" />
@@ -45,7 +61,7 @@ Hardware:    Microsoldadura, hardware modding, reparación electrónica y diagn�
   <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white" alt="Pi-hole" />
 </p>
 
-#### ⚙️ Automatización, scripting y bases de datos
+### Automatización, scripting y bases de datos
 <p>
   <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -56,20 +72,20 @@ Hardware:    Microsoldadura, hardware modding, reparación electrónica y diagn�
 
 ---
 
-### ⚡ Qué hago cuando no estoy en la terminal
+## ⚡ Qué hago cuando no estoy en la terminal
 
-- 🏠 **Homelabbing:** despliegue y mantenimiento de servicios autoalojados con contenedores LXC y Docker sobre Proxmox VE, priorizando aislamiento, bajo consumo y acceso remoto seguro.
-- 🤖 **Automatización:** si una tarea se repite, termina convertida en un script de Bash o en una automatización con Python + Playwright programada en cron.
-- 🏢 **Control e industrial:** experiencia con entornos BMS y SCADA como IQVision, Trend y Honeywell.
-- 🔬 **Cacharreo y hardware:** microsoldadura, reparación de electrónica, instalación de microchips y automatización de procesos con scripts y hardware.
+- 🏠 **Homelabbing:** despliego y mantengo servicios autoalojados con Docker y LXC sobre Proxmox VE, siempre con prioridad en aislamiento, consumo y acceso remoto seguro.
+- 🤖 **Automatización:** convierto tareas repetitivas en scripts robustos con Bash o automatizaciones con Python + Playwright.
+- 🏢 **Control e industrial:** trabajo con sistemas BMS/SCADA como IQVision, Trend y Honeywell.
+- 🔬 **Hardware:** microsoldadura, reparación electrónica, instalación de microchips y resolver fallos de forma práctica.
 
 ---
 
-### 📊 Estadísticas en GitHub
+## 📊 Estadísticas
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DatreRSX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_title=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatreRSX&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DatreRSX&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=false&hide_rank=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatreRSX&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
