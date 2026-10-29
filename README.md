@@ -43,7 +43,6 @@ Hardware:    Microsoldadura, hardware modding, reparación electrónica y diagno
   <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale" />
   <img src="https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white" alt="Pi-hole" />
-  <img src="https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Bitwarden" />
 </p>
 
 #### ⚙️ Scripting, Automatización y Bases de Datos
